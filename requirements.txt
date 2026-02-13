@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-filter
+djangorestframework-simplejwt
+drf-yasg
+gunicorn
+psycopg2-binary
+dj-database-url
